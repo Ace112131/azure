@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYRj3AOxVuHZhcA00BGhVLZSLTyg4V4JE/cFqFqxbmFEQKtgkoGf5HwX7ksZgIvOxx3wOsIIHBpq+d5jHZDAAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ashutosh\\Desktop\\project\\backend\\react-demo-backend\\react-demo-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
